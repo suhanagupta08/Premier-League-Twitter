@@ -7,8 +7,10 @@ Premier League Fan Tweets – Sentiment Analysis
 
 •	Completed classification tasks using various Machine Learning models (Gausian Naïve Bayes, Random Forest), Lexicon-based Sentiment Analysis models (VADER, TextBlob), and Deep Learning models (Bi-LSTM + Attention, Modified RoBERTa Embeddings). 
 
+* NTU CZ4045 NATURAL LANGUAGE PROCESSING*
 
-###Instructions to run:
+
+### Instructions to run:
 
 1. Install streamlit
 
